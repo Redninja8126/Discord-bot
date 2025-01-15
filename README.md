@@ -10,11 +10,11 @@ This is a Discord bot that allows users to play a game of Tic-Tac-Toe in a chann
 
 ## Requirements
 - Node.js (version 16.x or above)
+- discord.js (version 14 or above)
 - A Discord bot token (can be obtained by creating a bot on the [Discord Developer Portal](https://discord.com/developers/applications))
 
 ## Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tictactoe-bot.git
-cd tictactoe-bot
+git clone https://github.com/Redninja8126/Discord-bot.git)
