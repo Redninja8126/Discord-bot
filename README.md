@@ -15,6 +15,11 @@ This is a Discord bot that allows users to play a game of Tic-Tac-Toe in a chann
 
 ## Installation
 
-### 1. Clone the repository
+### 1. Install discord.js
+```bash
+npm install discord.js
+```
+
+### 2. Clone the repository
 ```bash
 git clone https://github.com/Redninja8126/Discord-bot.git)
